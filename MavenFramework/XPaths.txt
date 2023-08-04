@@ -1,0 +1,68 @@
+Website >> Make My Trip
+
+Located Flights at the top- //a[text()='Flights']
+
+Located radio button One way - //span[contains(text(),'One')]
+
+Question to ask - //button[@type='button'][1] ** location wise not working for button
+
+Locating From by class, but how to class if class value is dynamic - //div[@class=' css-1hwfws3']
+
+same question for locating Adult drop-down as well
+
+
+
+trading economics website>> capturing score >> //tbody/tr[1]/td[3] ****
+
+
+if static is a keyword - no need to create a object - directly we can call the method
+
+
+frame1{
+
+
+   frame2
+   
+   
+   
+   @Test - mandatory - Annotations - 
+   
+   no need to use psvm 
+   
+   
+   Main Can we override - No
+   
+   @Test - internally we are using psvm 
+   
+   psvm
+   
+   
+   beforemethod -  it will execute before every @Test 
+   AfterMethod - it will execute after every @Test
+   
+   @BM
+   @Test- Test1()
+   @Test-2()
+   @Test-3()
+   @AM
+   
+   BeforeClass - it will execute before  once for a class -  
+   AfterClass - it will execute after once for a class
+   
+   
+   @BC
+   @Test
+   @Test
+   @Test
+   AC
+   
+   
+   BeforeTest
+   AfterTest
+   
+   BeforeSuite 
+   AfterSuite
+   
+   
+   
+   

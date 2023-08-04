@@ -1,0 +1,90 @@
+
+sendkeys() -- if we need to write something inside into the text box
+
+click() - click on link or button
+
+
+id
+name
+
+xpath
+css --- Background check and colour identification - identify the element 
+
+classname
+linktext
+
+//div[h2[span(text()='Popular products in Beauty internationally')]]//li[@class='feed-carousel-card']
+
+
+purple color - Tag Name
+Red Color - Attribute
+Blue color - VAlue
+Black Color - Text
+
+
+1- //tagname[@attribute='value']
+
+//textarea[@title='Search']
+
+2- //tagname[text()='text value']
+
+//a[text()='Store']
+
+
+3- (//a[text()='Customer Service'])[1] ---- location wise xpath
+
+
+4 -
+
+//a[text()='Today's Deals']
+
+contains in xpath
+
+
+//tagname[contains(text(),'search value')]
+
+//a[contains(text(),'Deals')]
+
+
+drag and drop - drag and drop 
+
+right click - context click
+
+Double click - doublecllick()
+
+
+
+
+follwed by start with 
+
+
+
+
+
+
+Mouse Hovering
+Drag drop
+Double Click
+Alert Handling
+Frame
+Drop down
+Screenshot
+Window Handling
+
+
+
+TestNg
+
+Java
+
+
+Code should move into the git repo
+
+Jenkins - > From Git
+
+jenkins - Pom.xml - Testng.xml - Scripting - Main Functionality - POM
+
+
+
+
+
