@@ -29,7 +29,7 @@ public class PolicyBazaar_TestNG {
 	{
 		driver = new ChromeDriver();
 		driver.get("https://www.policybazaar.com/");
-	//	driver.manage().window().maximize();
+		driver.manage().window().maximize();
 		
 	}
     
