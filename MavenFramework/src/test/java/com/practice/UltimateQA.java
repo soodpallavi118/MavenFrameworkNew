@@ -24,7 +24,7 @@ public class UltimateQA {
 		WebDriver driver = new ChromeDriver();
 		driver.get("https://ultimateqa.com/automation");
 		driver.manage().window().maximize();
-		System.out.println("Opening Of Browser");
+		System.out.println("Opening Browser");
 	}
 	
 	@Test

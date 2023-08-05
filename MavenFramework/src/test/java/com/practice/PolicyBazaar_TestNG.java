@@ -30,6 +30,7 @@ public class PolicyBazaar_TestNG {
 		driver = new ChromeDriver();
 		driver.get("https://www.policybazaar.com/");
 		driver.manage().window().maximize();
+		System.out.println("Opening URL");
 		
 	}
     
