@@ -36,6 +36,8 @@ public class DropDown {
 		  options.get(i).click();
 		  
 		  System.out.println(options.get(i).getText());
+		  
+		  System.out.println("Drag and Drop work");
 	  }
 	
 
