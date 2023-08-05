@@ -25,6 +25,8 @@ public class DragandDrop {
 		
 		act.dragAndDrop(from, to).perform();
 		
+		System.out.println("Drag and Drop Performed");
+		
 		
 		
 		
